@@ -7,16 +7,19 @@ Last modified: 11:35 AM, 6.1.2025 (DD.MM.YYYY)
 ---
 Hello! I am a nerd with a fascination not only for particle physics but for set and logic theory, political sciences, public speaking, information technology, and tons of other stuff! Here are my experiences:
 
-Fluent:
--
+Fluent
+
 - BASIC, including TI variants
 
-Proficient:
--
+Proficient
+
 - LaTeX (mostly mathematical formatting)
 - Python
 - Windows PowerShell
 
-Basic:
-- 
+Basic
+
 - Wolfram Language
+
+---
+Thank you for reading me!
